@@ -56,10 +56,10 @@ paginate_path: 'page:num'
 menus:
 
 
-  #  -
-  #    href: /cartoon.html
-  #    label: 漫画
-  #    target: _self
+  -
+    href: /install.html
+    label: 各种安装教程
+    target: _self
   -
     href: /life.html
     label: 有酒有故事
@@ -124,7 +124,7 @@ navs:
   -
     href: /java.html
     label: Java之旅
-    target: _blank
+    target: _self
     subnav:
 
       -
@@ -143,7 +143,11 @@ navs:
 
       -
         subHref: /java.html
-        subLabel: Java 高并发实战项目
+        subLabel: Java 高并发
+        target: _blank
+
+      - subHref: /mysql.html
+        subLabel: MySQL通关系列
         target: _blank
 
   #  -
