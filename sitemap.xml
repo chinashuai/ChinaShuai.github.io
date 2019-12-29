@@ -6,97 +6,85 @@
        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
 >
 <url>
- <loc>http://www.ityouknow.com</loc>
+ <loc>http://www.chinaxieshuai.com</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/cartoon.html</loc>
+ <loc>http://www.chinaxieshuai.com/cartoon.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it.html</loc>
+ <loc>http://www.chinaxieshuai.com/it.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/zsxq.html</loc>
+ <loc>http://www.chinaxieshuai.com/zsxq.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/life.html</loc>
+ <loc>http://www.chinaxieshuai.com/life.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/arch.html</loc>
+ <loc>http://www.chinaxieshuai.com/arch.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/link.html</loc>
+ <loc>http://www.chinaxieshuai.com/link.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/about.html</loc>
+ <loc>http://www.chinaxieshuai.com/about.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/</loc>
+ <loc>http://www.chinaxieshuai.com/</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/</loc>
+ <loc>http://www.chinaxieshuai.com/</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-boot.html</loc>
+ <loc>http://www.chinaxieshuai.com/spring-boot.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-boot.html</loc>
+ <loc>http://www.chinaxieshuai.com/spring-boot.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-cloud.html</loc>
+ <loc>http://www.chinaxieshuai.com/spring-cloud.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/spring-cloud.html</loc>
- <priority>0.5</priority>
- <lastmod>2019-11-03</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.justdojava.com</loc>
- <priority>0.5</priority>
- <lastmod>2019-11-03</lastmod>
- <changefreq>weekly</changefreq>
-</url>
-<url>
- <loc>http://www.ityouknow.com/java.html</loc>
+ <loc>http://www.chinaxieshuai.com/spring-cloud.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -108,13 +96,25 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python.html</loc>
+ <loc>http://www.chinaxieshuai.com/java.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python.html</loc>
+ <loc>http://www.justdojava.com</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-03</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.chinaxieshuai.com/python.html</loc>
+ <priority>0.5</priority>
+ <lastmod>2019-11-03</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+<url>
+ <loc>http://www.chinaxieshuai.com/python.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
@@ -126,427 +126,427 @@
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/archives.html</loc>
+ <loc>http://www.chinaxieshuai.com/archives.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/payment.html</loc>
+ <loc>http://www.chinaxieshuai.com/payment.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/fastdfs.html</loc>
+ <loc>http://www.chinaxieshuai.com/fastdfs.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/mongodb.html</loc>
+ <loc>http://www.chinaxieshuai.com/mongodb.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/docker.html</loc>
+ <loc>http://www.chinaxieshuai.com/docker.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/open-source.html</loc>
+ <loc>http://www.chinaxieshuai.com/open-source.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/gitchat.html</loc>
+ <loc>http://www.chinaxieshuai.com/gitchat.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/java/2019/10/30/about-jvm.html</loc>
+ <loc>http://www.chinaxieshuai.com/java/2019/10/30/about-jvm.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it/2019/10/27/qiubojun.html</loc>
+ <loc>http://www.chinaxieshuai.com/it/2019/10/27/qiubojun.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/cartoon/2019/10/25/twome.html</loc>
+ <loc>http://www.chinaxieshuai.com/cartoon/2019/10/25/twome.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it/2019/10/24/interview.html</loc>
+ <loc>http://www.chinaxieshuai.com/it/2019/10/24/interview.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/payment/2019/10/23/money-transferred.html</loc>
+ <loc>http://www.chinaxieshuai.com/payment/2019/10/23/money-transferred.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it/2019/10/22/zalie.html</loc>
+ <loc>http://www.chinaxieshuai.com/it/2019/10/22/zalie.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/cartoon/2019/10/21/heihua.html</loc>
+ <loc>http://www.chinaxieshuai.com/cartoon/2019/10/21/heihua.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/20/python-calendar-036.html</loc>
+ <loc>http://www.chinaxieshuai.com/python/2019/10/20/python-calendar-036.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/19/python-pathlib-035.html</loc>
+ <loc>http://www.chinaxieshuai.com/python/2019/10/19/python-pathlib-035.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/18/python-json&amp;pickle-034.html</loc>
+ <loc>http://www.chinaxieshuai.com/python/2019/10/18/python-json&amp;pickle-034.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/15/python-enum-033.html</loc>
+ <loc>http://www.chinaxieshuai.com/python/2019/10/15/python-enum-033.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/python/2019/10/13/python-logging-032.html</loc>
+ <loc>http://www.chinaxieshuai.com/python/2019/10/13/python-logging-032.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page2</loc>
+ <loc>http://www.chinaxieshuai.com/page2</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page3</loc>
+ <loc>http://www.chinaxieshuai.com/page3</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page4</loc>
+ <loc>http://www.chinaxieshuai.com/page4</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page5</loc>
+ <loc>http://www.chinaxieshuai.com/page5</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page6</loc>
+ <loc>http://www.chinaxieshuai.com/page6</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page7</loc>
+ <loc>http://www.chinaxieshuai.com/page7</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page8</loc>
+ <loc>http://www.chinaxieshuai.com/page8</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page9</loc>
+ <loc>http://www.chinaxieshuai.com/page9</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page10</loc>
+ <loc>http://www.chinaxieshuai.com/page10</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page11</loc>
+ <loc>http://www.chinaxieshuai.com/page11</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page12</loc>
+ <loc>http://www.chinaxieshuai.com/page12</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page13</loc>
+ <loc>http://www.chinaxieshuai.com/page13</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page14</loc>
+ <loc>http://www.chinaxieshuai.com/page14</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page15</loc>
+ <loc>http://www.chinaxieshuai.com/page15</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page16</loc>
+ <loc>http://www.chinaxieshuai.com/page16</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page17</loc>
+ <loc>http://www.chinaxieshuai.com/page17</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page18</loc>
+ <loc>http://www.chinaxieshuai.com/page18</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page19</loc>
+ <loc>http://www.chinaxieshuai.com/page19</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page20</loc>
+ <loc>http://www.chinaxieshuai.com/page20</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page21</loc>
+ <loc>http://www.chinaxieshuai.com/page21</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page22</loc>
+ <loc>http://www.chinaxieshuai.com/page22</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page23</loc>
+ <loc>http://www.chinaxieshuai.com/page23</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page24</loc>
+ <loc>http://www.chinaxieshuai.com/page24</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page25</loc>
+ <loc>http://www.chinaxieshuai.com/page25</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page26</loc>
+ <loc>http://www.chinaxieshuai.com/page26</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page27</loc>
+ <loc>http://www.chinaxieshuai.com/page27</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/page2</loc>
+ <loc>http://www.chinaxieshuai.com/page2</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow</loc>
+ <loc>https://github.com/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://www.zhihu.com/people/ityouknow</loc>
+ <loc>https://www.zhihu.com/people/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://weibo.com/ityouknow</loc>
+ <loc>https://weibo.com/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/life.html</loc>
+ <loc>http://www.chinaxieshuai.com/life.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/it.html</loc>
+ <loc>http://www.chinaxieshuai.com/it.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/arch.html</loc>
+ <loc>http://www.chinaxieshuai.com/arch.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow/spring-boot-examples</loc>
+ <loc>https://github.com/chinaxieshuai/spring-boot-examples</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow/spring-cloud-examples</loc>
+ <loc>https://github.com/chinaxieshuai/spring-cloud-examples</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow/awesome-spring-boot</loc>
+ <loc>https://github.com/chinaxieshuai/awesome-spring-boot</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow/spring-boot-leaning</loc>
+ <loc>https://github.com/chinaxieshuai/spring-boot-leaning</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow/awesome-spring-cloud</loc>
+ <loc>https://github.com/chinaxieshuai/awesome-spring-cloud</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow/diagram</loc>
+ <loc>https://github.com/chinaxieshuai/diagram</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://www.zhihu.com/people/ityouknow</loc>
+ <loc>https://www.zhihu.com/people/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://weibo.com/ityouknow</loc>
+ <loc>http://weibo.com/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow</loc>
+ <loc>https://github.com/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://github.com/ityouknow</loc>
+ <loc>https://github.com/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://www.zhihu.com/people/ityouknow</loc>
+ <loc>https://www.zhihu.com/people/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>https://weibo.com/ityouknow</loc>
+ <loc>https://weibo.com/chinaxieshuai</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/payment.html</loc>
+ <loc>http://www.chinaxieshuai.com/payment.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/fastdfs.html</loc>
+ <loc>http://www.chinaxieshuai.com/fastdfs.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/mongodb.html</loc>
+ <loc>http://www.chinaxieshuai.com/mongodb.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/docker.html</loc>
+ <loc>http://www.chinaxieshuai.com/docker.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/open-source.html</loc>
+ <loc>http://www.chinaxieshuai.com/open-source.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/gitchat.html</loc>
+ <loc>http://www.chinaxieshuai.com/gitchat.html</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://www.ityouknow.com/feed.xml</loc>
+ <loc>http://www.chinaxieshuai.com/feed.xml</loc>
  <priority>0.5</priority>
  <lastmod>2019-11-03</lastmod>
  <changefreq>weekly</changefreq>
